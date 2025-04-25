@@ -1,0 +1,3474 @@
+{"data":[
+  {
+    "Frequency": 400,
+    "Angle of attack": 0,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00331266
+  },
+  {
+    "Frequency": 1250,
+    "Angle of attack": 12.3,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.0418756
+  },
+  {
+    "Frequency": 2500,
+    "Angle of attack": 4,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00579636
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 0,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.000439472
+  },
+  {
+    "Frequency": 5000,
+    "Angle of attack": 0,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.00076193
+  },
+  {
+    "Frequency": 800,
+    "Angle of attack": 4.8,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.000907475
+  },
+  {
+    "Frequency": 1000,
+    "Angle of attack": 15.4,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.0289853
+  },
+  {
+    "Frequency": 500,
+    "Angle of attack": 7.3,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0104404
+  },
+  {
+    "Frequency": 400,
+    "Angle of attack": 7.2,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00752039
+  },
+  {
+    "Frequency": 1250,
+    "Angle of attack": 5.4,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00525474
+  },
+  {
+    "Frequency": 1000,
+    "Angle of attack": 0,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.000812164
+  },
+  {
+    "Frequency": 8000,
+    "Angle of attack": 3,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00495741
+  },
+  {
+    "Frequency": 1600,
+    "Angle of attack": 12.7,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0121808
+  },
+  {
+    "Frequency": 1600,
+    "Angle of attack": 9.5,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00420654
+  },
+  {
+    "Frequency": 1600,
+    "Angle of attack": 7.3,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0111706
+  },
+  {
+    "Frequency": 6300,
+    "Angle of attack": 12.3,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0408268
+  },
+  {
+    "Frequency": 1000,
+    "Angle of attack": 5.3,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00614329
+  },
+  {
+    "Frequency": 315,
+    "Angle of attack": 7.2,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00909175
+  },
+  {
+    "Frequency": 1000,
+    "Angle of attack": 2,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00293031
+  },
+  {
+    "Frequency": 400,
+    "Angle of attack": 8.4,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.00544854
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 0,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00193287
+  },
+  {
+    "Frequency": 10000,
+    "Angle of attack": 0,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.000740478
+  },
+  {
+    "Frequency": 5000,
+    "Angle of attack": 9.9,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.0252785
+  },
+  {
+    "Frequency": 500,
+    "Angle of attack": 2,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00293031
+  },
+  {
+    "Frequency": 315,
+    "Angle of attack": 15.4,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0282593
+  },
+  {
+    "Frequency": 6300,
+    "Angle of attack": 0,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00146332
+  },
+  {
+    "Frequency": 1000,
+    "Angle of attack": 4.2,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00152689
+  },
+  {
+    "Frequency": 800,
+    "Angle of attack": 5.3,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00614329
+  },
+  {
+    "Frequency": 5000,
+    "Angle of attack": 12.3,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0408268
+  },
+  {
+    "Frequency": 200,
+    "Angle of attack": 15.6,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0437259
+  },
+  {
+    "Frequency": 1000,
+    "Angle of attack": 17.4,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0172206
+  },
+  {
+    "Frequency": 8000,
+    "Angle of attack": 0,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0015988
+  },
+  {
+    "Frequency": 1250,
+    "Angle of attack": 7.2,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00909175
+  },
+  {
+    "Frequency": 8000,
+    "Angle of attack": 12.7,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0130253
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 4,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00497773
+  },
+  {
+    "Frequency": 200,
+    "Angle of attack": 8.9,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0103088
+  },
+  {
+    "Frequency": 2500,
+    "Angle of attack": 0,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.000791822
+  },
+  {
+    "Frequency": 500,
+    "Angle of attack": 5.3,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0051942
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 17.4,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0172206
+  },
+  {
+    "Frequency": 2500,
+    "Angle of attack": 12.3,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.0418756
+  },
+  {
+    "Frequency": 2500,
+    "Angle of attack": 4,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00400603
+  },
+  {
+    "Frequency": 5000,
+    "Angle of attack": 4.8,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.000873218
+  },
+  {
+    "Frequency": 1000,
+    "Angle of attack": 9.9,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0193001
+  },
+  {
+    "Frequency": 200,
+    "Angle of attack": 15.4,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.0289853
+  },
+  {
+    "Frequency": 315,
+    "Angle of attack": 4,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00579636
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 4.8,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.000873218
+  },
+  {
+    "Frequency": 1000,
+    "Angle of attack": 15.4,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0271925
+  },
+  {
+    "Frequency": 5000,
+    "Angle of attack": 15.4,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0271925
+  },
+  {
+    "Frequency": 10000,
+    "Angle of attack": 0,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00121072
+  },
+  {
+    "Frequency": 3150,
+    "Angle of attack": 4.8,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.000848633
+  },
+  {
+    "Frequency": 2500,
+    "Angle of attack": 0,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00150092
+  },
+  {
+    "Frequency": 8000,
+    "Angle of attack": 1.5,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00336729
+  },
+  {
+    "Frequency": 8000,
+    "Angle of attack": 4.8,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.000907475
+  },
+  {
+    "Frequency": 200,
+    "Angle of attack": 9.9,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.0252785
+  },
+  {
+    "Frequency": 1000,
+    "Angle of attack": 1.5,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00336729
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 17.4,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.0176631
+  },
+  {
+    "Frequency": 3150,
+    "Angle of attack": 0,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.0027238
+  },
+  {
+    "Frequency": 800,
+    "Angle of attack": 2.7,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00294804
+  },
+  {
+    "Frequency": 250,
+    "Angle of attack": 0,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00331266
+  },
+  {
+    "Frequency": 5000,
+    "Angle of attack": 4,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00400603
+  },
+  {
+    "Frequency": 2000,
+    "Angle of attack": 1.5,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00336729
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 0,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.00076193
+  },
+  {
+    "Frequency": 630,
+    "Angle of attack": 5.4,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00525474
+  },
+  {
+    "Frequency": 2000,
+    "Angle of attack": 8.4,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00529514
+  },
+  {
+    "Frequency": 5000,
+    "Angle of attack": 2,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00372371
+  },
+  {
+    "Frequency": 2000,
+    "Angle of attack": 17.4,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.0176631
+  },
+  {
+    "Frequency": 6300,
+    "Angle of attack": 9.5,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00420654
+  },
+  {
+    "Frequency": 2000,
+    "Angle of attack": 19.7,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0341183
+  },
+  {
+    "Frequency": 630,
+    "Angle of attack": 0,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00193287
+  },
+  {
+    "Frequency": 1000,
+    "Angle of attack": 0,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00253511
+  },
+  {
+    "Frequency": 800,
+    "Angle of attack": 0,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00209405
+  },
+  {
+    "Frequency": 1600,
+    "Angle of attack": 0,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.000812164
+  },
+  {
+    "Frequency": 630,
+    "Angle of attack": 2,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00346574
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 15.4,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.0289853
+  },
+  {
+    "Frequency": 1600,
+    "Angle of attack": 0,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.000791822
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 12.7,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0121808
+  },
+  {
+    "Frequency": 250,
+    "Angle of attack": 7.3,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0123481
+  },
+  {
+    "Frequency": 1600,
+    "Angle of attack": 3.3,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00245138
+  },
+  {
+    "Frequency": 3150,
+    "Angle of attack": 0,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.000428464
+  },
+  {
+    "Frequency": 8000,
+    "Angle of attack": 0,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.000428464
+  },
+  {
+    "Frequency": 800,
+    "Angle of attack": 15.4,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.0289853
+  },
+  {
+    "Frequency": 5000,
+    "Angle of attack": 17.4,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.0176631
+  },
+  {
+    "Frequency": 200,
+    "Angle of attack": 0,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00310138
+  },
+  {
+    "Frequency": 2500,
+    "Angle of attack": 17.4,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0165706
+  },
+  {
+    "Frequency": 6300,
+    "Angle of attack": 9.5,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00461377
+  },
+  {
+    "Frequency": 1000,
+    "Angle of attack": 15.6,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0528487
+  },
+  {
+    "Frequency": 10000,
+    "Angle of attack": 0,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00331266
+  },
+  {
+    "Frequency": 1000,
+    "Angle of attack": 9.5,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00449821
+  },
+  {
+    "Frequency": 6300,
+    "Angle of attack": 7.3,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0104404
+  },
+  {
+    "Frequency": 8000,
+    "Angle of attack": 3.3,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.002211
+  },
+  {
+    "Frequency": 5000,
+    "Angle of attack": 3,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.00452492
+  },
+  {
+    "Frequency": 315,
+    "Angle of attack": 17.4,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0165706
+  },
+  {
+    "Frequency": 400,
+    "Angle of attack": 15.4,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.0289853
+  },
+  {
+    "Frequency": 1250,
+    "Angle of attack": 8.9,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0103088
+  },
+  {
+    "Frequency": 6300,
+    "Angle of attack": 3,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.00452492
+  },
+  {
+    "Frequency": 6300,
+    "Angle of attack": 5.4,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.00433288
+  },
+  {
+    "Frequency": 12500,
+    "Angle of attack": 0,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.00172668
+  },
+  {
+    "Frequency": 5000,
+    "Angle of attack": 15.4,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0282593
+  },
+  {
+    "Frequency": 1250,
+    "Angle of attack": 0,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00146332
+  },
+  {
+    "Frequency": 5000,
+    "Angle of attack": 0,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.00172668
+  },
+  {
+    "Frequency": 2000,
+    "Angle of attack": 0,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00193287
+  },
+  {
+    "Frequency": 5000,
+    "Angle of attack": 12.3,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.0418756
+  },
+  {
+    "Frequency": 630,
+    "Angle of attack": 12.3,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0337792
+  },
+  {
+    "Frequency": 1600,
+    "Angle of attack": 9.9,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0233328
+  },
+  {
+    "Frequency": 630,
+    "Angle of attack": 19.7,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0341183
+  },
+  {
+    "Frequency": 315,
+    "Angle of attack": 12.3,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0408268
+  },
+  {
+    "Frequency": 6300,
+    "Angle of attack": 0,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00310138
+  },
+  {
+    "Frequency": 2500,
+    "Angle of attack": 0,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00331266
+  },
+  {
+    "Frequency": 500,
+    "Angle of attack": 6.7,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00592927
+  },
+  {
+    "Frequency": 315,
+    "Angle of attack": 22.2,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0214178
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 0,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.00283081
+  },
+  {
+    "Frequency": 2000,
+    "Angle of attack": 9.5,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0043284
+  },
+  {
+    "Frequency": 8000,
+    "Angle of attack": 0,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.000812164
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 9.5,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00420654
+  },
+  {
+    "Frequency": 315,
+    "Angle of attack": 22.2,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0229028
+  },
+  {
+    "Frequency": 5000,
+    "Angle of attack": 0,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.000812164
+  },
+  {
+    "Frequency": 2500,
+    "Angle of attack": 7.3,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0123481
+  },
+  {
+    "Frequency": 8000,
+    "Angle of attack": 4,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00473801
+  },
+  {
+    "Frequency": 1600,
+    "Angle of attack": 12.7,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0130253
+  },
+  {
+    "Frequency": 2000,
+    "Angle of attack": 12.3,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0408268
+  },
+  {
+    "Frequency": 800,
+    "Angle of attack": 3,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.00452492
+  },
+  {
+    "Frequency": 1600,
+    "Angle of attack": 9.5,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00449821
+  },
+  {
+    "Frequency": 1000,
+    "Angle of attack": 0,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.00172668
+  },
+  {
+    "Frequency": 800,
+    "Angle of attack": 2,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00372371
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 12.6,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0483159
+  },
+  {
+    "Frequency": 1600,
+    "Angle of attack": 7.2,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00909175
+  },
+  {
+    "Frequency": 800,
+    "Angle of attack": 7.3,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0123481
+  },
+  {
+    "Frequency": 3150,
+    "Angle of attack": 19.7,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0341183
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 4.2,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00152689
+  },
+  {
+    "Frequency": 3150,
+    "Angle of attack": 12.6,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0584113
+  },
+  {
+    "Frequency": 3150,
+    "Angle of attack": 0,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00150092
+  },
+  {
+    "Frequency": 500,
+    "Angle of attack": 2,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.00313525
+  },
+  {
+    "Frequency": 12500,
+    "Angle of attack": 1.5,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00336729
+  },
+  {
+    "Frequency": 5000,
+    "Angle of attack": 22.2,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0214178
+  },
+  {
+    "Frequency": 315,
+    "Angle of attack": 9.9,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0193001
+  },
+  {
+    "Frequency": 250,
+    "Angle of attack": 7.3,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.0132672
+  },
+  {
+    "Frequency": 630,
+    "Angle of attack": 0,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.00283081
+  },
+  {
+    "Frequency": 10000,
+    "Angle of attack": 0,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00193287
+  },
+  {
+    "Frequency": 1000,
+    "Angle of attack": 4,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00509068
+  },
+  {
+    "Frequency": 200,
+    "Angle of attack": 11.2,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0150478
+  },
+  {
+    "Frequency": 500,
+    "Angle of attack": 0,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.00229336
+  },
+  {
+    "Frequency": 1250,
+    "Angle of attack": 4,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00400603
+  },
+  {
+    "Frequency": 200,
+    "Angle of attack": 12.6,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0483159
+  },
+  {
+    "Frequency": 500,
+    "Angle of attack": 2.7,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00294804
+  },
+  {
+    "Frequency": 1250,
+    "Angle of attack": 17.4,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0165706
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 9.5,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00449821
+  },
+  {
+    "Frequency": 315,
+    "Angle of attack": 12.7,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0130253
+  },
+  {
+    "Frequency": 800,
+    "Angle of attack": 0,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00193287
+  },
+  {
+    "Frequency": 800,
+    "Angle of attack": 8.4,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.00544854
+  },
+  {
+    "Frequency": 800,
+    "Angle of attack": 2,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00346574
+  },
+  {
+    "Frequency": 1600,
+    "Angle of attack": 5.4,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00525474
+  },
+  {
+    "Frequency": 630,
+    "Angle of attack": 8.9,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0103088
+  },
+  {
+    "Frequency": 8000,
+    "Angle of attack": 15.4,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0264269
+  },
+  {
+    "Frequency": 6300,
+    "Angle of attack": 4.8,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.000873218
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 0,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.0027238
+  },
+  {
+    "Frequency": 1000,
+    "Angle of attack": 2.7,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00243851
+  },
+  {
+    "Frequency": 500,
+    "Angle of attack": 9.9,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0208438
+  },
+  {
+    "Frequency": 400,
+    "Angle of attack": 4,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0042862
+  },
+  {
+    "Frequency": 6300,
+    "Angle of attack": 0,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.000400682
+  },
+  {
+    "Frequency": 2500,
+    "Angle of attack": 4,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0042862
+  },
+  {
+    "Frequency": 2000,
+    "Angle of attack": 5.3,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0051942
+  },
+  {
+    "Frequency": 5000,
+    "Angle of attack": 0,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00310138
+  },
+  {
+    "Frequency": 5000,
+    "Angle of attack": 3.3,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00251435
+  },
+  {
+    "Frequency": 2000,
+    "Angle of attack": 7.3,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0111706
+  },
+  {
+    "Frequency": 1600,
+    "Angle of attack": 12.3,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0408268
+  },
+  {
+    "Frequency": 200,
+    "Angle of attack": 7.3,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0123481
+  },
+  {
+    "Frequency": 1000,
+    "Angle of attack": 3,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00425727
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 3,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00425727
+  },
+  {
+    "Frequency": 8000,
+    "Angle of attack": 4.2,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00152689
+  },
+  {
+    "Frequency": 5000,
+    "Angle of attack": 4.8,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.000930789
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 8.4,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00566229
+  },
+  {
+    "Frequency": 1250,
+    "Angle of attack": 5.3,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00614329
+  },
+  {
+    "Frequency": 1600,
+    "Angle of attack": 4,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0042862
+  },
+  {
+    "Frequency": 400,
+    "Angle of attack": 7.2,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00909175
+  },
+  {
+    "Frequency": 10000,
+    "Angle of attack": 3.3,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00202822
+  },
+  {
+    "Frequency": 2500,
+    "Angle of attack": 12.6,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0483159
+  },
+  {
+    "Frequency": 400,
+    "Angle of attack": 3,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00495741
+  },
+  {
+    "Frequency": 2000,
+    "Angle of attack": 22.2,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0229028
+  },
+  {
+    "Frequency": 1000,
+    "Angle of attack": 15.4,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0282593
+  },
+  {
+    "Frequency": 630,
+    "Angle of attack": 12.3,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.0418756
+  },
+  {
+    "Frequency": 2000,
+    "Angle of attack": 4.8,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.000930789
+  },
+  {
+    "Frequency": 250,
+    "Angle of attack": 12.6,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0584113
+  },
+  {
+    "Frequency": 6300,
+    "Angle of attack": 15.4,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.0289853
+  },
+  {
+    "Frequency": 1250,
+    "Angle of attack": 5.3,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0051942
+  },
+  {
+    "Frequency": 2000,
+    "Angle of attack": 12.3,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0368233
+  },
+  {
+    "Frequency": 400,
+    "Angle of attack": 0,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00310138
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 12.3,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.0418756
+  },
+  {
+    "Frequency": 1250,
+    "Angle of attack": 0,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00150092
+  },
+  {
+    "Frequency": 10000,
+    "Angle of attack": 5.3,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0051942
+  },
+  {
+    "Frequency": 10000,
+    "Angle of attack": 0,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.000439472
+  },
+  {
+    "Frequency": 6300,
+    "Angle of attack": 3.3,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.002211
+  },
+  {
+    "Frequency": 5000,
+    "Angle of attack": 4,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00509068
+  },
+  {
+    "Frequency": 800,
+    "Angle of attack": 15.6,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0528487
+  },
+  {
+    "Frequency": 1600,
+    "Angle of attack": 4,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00509068
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 9.5,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0043284
+  },
+  {
+    "Frequency": 1600,
+    "Angle of attack": 0,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00150092
+  },
+  {
+    "Frequency": 2500,
+    "Angle of attack": 4,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00473801
+  },
+  {
+    "Frequency": 1250,
+    "Angle of attack": 4,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00497773
+  },
+  {
+    "Frequency": 800,
+    "Angle of attack": 2,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.00313525
+  },
+  {
+    "Frequency": 6300,
+    "Angle of attack": 4,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00400603
+  },
+  {
+    "Frequency": 1250,
+    "Angle of attack": 7.3,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0123481
+  },
+  {
+    "Frequency": 500,
+    "Angle of attack": 15.4,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.0289853
+  },
+  {
+    "Frequency": 400,
+    "Angle of attack": 17.4,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0165706
+  },
+  {
+    "Frequency": 500,
+    "Angle of attack": 5.4,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00525474
+  },
+  {
+    "Frequency": 10000,
+    "Angle of attack": 0,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.000791822
+  },
+  {
+    "Frequency": 800,
+    "Angle of attack": 9.9,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0208438
+  },
+  {
+    "Frequency": 2000,
+    "Angle of attack": 17.4,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0172206
+  },
+  {
+    "Frequency": 3150,
+    "Angle of attack": 0,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00121072
+  },
+  {
+    "Frequency": 3150,
+    "Angle of attack": 0,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00214345
+  },
+  {
+    "Frequency": 250,
+    "Angle of attack": 9.9,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.0252785
+  },
+  {
+    "Frequency": 315,
+    "Angle of attack": 17.4,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.0176631
+  },
+  {
+    "Frequency": 1600,
+    "Angle of attack": 3.3,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.002211
+  },
+  {
+    "Frequency": 6300,
+    "Angle of attack": 0,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00331266
+  },
+  {
+    "Frequency": 2500,
+    "Angle of attack": 9.5,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00420654
+  },
+  {
+    "Frequency": 2000,
+    "Angle of attack": 0,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.0027238
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 17.4,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.016104
+  },
+  {
+    "Frequency": 500,
+    "Angle of attack": 0,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.0027238
+  },
+  {
+    "Frequency": 400,
+    "Angle of attack": 9.5,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0043284
+  },
+  {
+    "Frequency": 1000,
+    "Angle of attack": 2.7,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00294804
+  },
+  {
+    "Frequency": 3150,
+    "Angle of attack": 12.3,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.0418756
+  },
+  {
+    "Frequency": 2500,
+    "Angle of attack": 0,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.000740478
+  },
+  {
+    "Frequency": 12500,
+    "Angle of attack": 0,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00214345
+  },
+  {
+    "Frequency": 1250,
+    "Angle of attack": 2,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00346574
+  },
+  {
+    "Frequency": 1000,
+    "Angle of attack": 11.2,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0150478
+  },
+  {
+    "Frequency": 1250,
+    "Angle of attack": 15.6,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0437259
+  },
+  {
+    "Frequency": 2000,
+    "Angle of attack": 5.4,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.00433288
+  },
+  {
+    "Frequency": 630,
+    "Angle of attack": 0,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00253511
+  },
+  {
+    "Frequency": 5000,
+    "Angle of attack": 4.2,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00142788
+  },
+  {
+    "Frequency": 250,
+    "Angle of attack": 0,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00310138
+  },
+  {
+    "Frequency": 1250,
+    "Angle of attack": 0,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00331266
+  },
+  {
+    "Frequency": 630,
+    "Angle of attack": 22.2,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0214178
+  },
+  {
+    "Frequency": 2500,
+    "Angle of attack": 0,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.000439472
+  },
+  {
+    "Frequency": 315,
+    "Angle of attack": 19.7,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.036484
+  },
+  {
+    "Frequency": 2000,
+    "Angle of attack": 7.3,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0123481
+  },
+  {
+    "Frequency": 1250,
+    "Angle of attack": 12.6,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0483159
+  },
+  {
+    "Frequency": 400,
+    "Angle of attack": 5.4,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00525474
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 4.8,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.000848633
+  },
+  {
+    "Frequency": 2000,
+    "Angle of attack": 0,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00150092
+  },
+  {
+    "Frequency": 1600,
+    "Angle of attack": 17.4,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0165706
+  },
+  {
+    "Frequency": 5000,
+    "Angle of attack": 22.2,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0229028
+  },
+  {
+    "Frequency": 6300,
+    "Angle of attack": 7.3,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.0132672
+  },
+  {
+    "Frequency": 315,
+    "Angle of attack": 12.7,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0121808
+  },
+  {
+    "Frequency": 3150,
+    "Angle of attack": 12.6,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0483159
+  },
+  {
+    "Frequency": 5000,
+    "Angle of attack": 5.3,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0051942
+  },
+  {
+    "Frequency": 315,
+    "Angle of attack": 11.2,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.014072
+  },
+  {
+    "Frequency": 630,
+    "Angle of attack": 3,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00425727
+  },
+  {
+    "Frequency": 3150,
+    "Angle of attack": 2.7,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00294804
+  },
+  {
+    "Frequency": 400,
+    "Angle of attack": 7.3,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0123481
+  },
+  {
+    "Frequency": 6300,
+    "Angle of attack": 2,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.00313525
+  },
+  {
+    "Frequency": 200,
+    "Angle of attack": 9.9,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0193001
+  },
+  {
+    "Frequency": 5000,
+    "Angle of attack": 15.4,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.0289853
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 12.6,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0584113
+  },
+  {
+    "Frequency": 20000,
+    "Angle of attack": 4.8,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.000873218
+  },
+  {
+    "Frequency": 315,
+    "Angle of attack": 2,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00346574
+  },
+  {
+    "Frequency": 3150,
+    "Angle of attack": 0,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.00076193
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 3.3,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00245138
+  },
+  {
+    "Frequency": 500,
+    "Angle of attack": 7.3,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0123481
+  },
+  {
+    "Frequency": 630,
+    "Angle of attack": 12.6,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0584113
+  },
+  {
+    "Frequency": 2500,
+    "Angle of attack": 5.4,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00525474
+  },
+  {
+    "Frequency": 8000,
+    "Angle of attack": 3.3,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00245138
+  },
+  {
+    "Frequency": 500,
+    "Angle of attack": 17.4,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0165706
+  },
+  {
+    "Frequency": 2500,
+    "Angle of attack": 8.4,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00580776
+  },
+  {
+    "Frequency": 1600,
+    "Angle of attack": 0,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.0027238
+  },
+  {
+    "Frequency": 630,
+    "Angle of attack": 7.2,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00752039
+  },
+  {
+    "Frequency": 8000,
+    "Angle of attack": 0,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.000400682
+  },
+  {
+    "Frequency": 1000,
+    "Angle of attack": 12.3,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0408268
+  },
+  {
+    "Frequency": 1000,
+    "Angle of attack": 12.7,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0121808
+  },
+  {
+    "Frequency": 5000,
+    "Angle of attack": 0,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00146332
+  },
+  {
+    "Frequency": 1600,
+    "Angle of attack": 0,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.00229336
+  },
+  {
+    "Frequency": 6300,
+    "Angle of attack": 9.5,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0043284
+  },
+  {
+    "Frequency": 5000,
+    "Angle of attack": 0,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.000791822
+  },
+  {
+    "Frequency": 2000,
+    "Angle of attack": 4,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00509068
+  },
+  {
+    "Frequency": 2000,
+    "Angle of attack": 0,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00331266
+  },
+  {
+    "Frequency": 800,
+    "Angle of attack": 5.4,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00401199
+  },
+  {
+    "Frequency": 800,
+    "Angle of attack": 4,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00509068
+  },
+  {
+    "Frequency": 800,
+    "Angle of attack": 4.8,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.000930789
+  },
+  {
+    "Frequency": 2500,
+    "Angle of attack": 0,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.00041229
+  },
+  {
+    "Frequency": 630,
+    "Angle of attack": 17.4,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0172206
+  },
+  {
+    "Frequency": 500,
+    "Angle of attack": 22.2,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0214178
+  },
+  {
+    "Frequency": 2500,
+    "Angle of attack": 22.2,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0229028
+  },
+  {
+    "Frequency": 315,
+    "Angle of attack": 15.4,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0271925
+  },
+  {
+    "Frequency": 6300,
+    "Angle of attack": 0,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.00172668
+  },
+  {
+    "Frequency": 2000,
+    "Angle of attack": 17.4,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.016104
+  },
+  {
+    "Frequency": 5000,
+    "Angle of attack": 8.4,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.00544854
+  },
+  {
+    "Frequency": 2000,
+    "Angle of attack": 4.8,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.000848633
+  },
+  {
+    "Frequency": 800,
+    "Angle of attack": 0,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.0027238
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 0,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0015988
+  },
+  {
+    "Frequency": 8000,
+    "Angle of attack": 0,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00214345
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 0,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.00131983
+  },
+  {
+    "Frequency": 400,
+    "Angle of attack": 1.5,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00392107
+  },
+  {
+    "Frequency": 5000,
+    "Angle of attack": 8.9,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0124596
+  },
+  {
+    "Frequency": 1600,
+    "Angle of attack": 4.8,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.000873218
+  },
+  {
+    "Frequency": 3150,
+    "Angle of attack": 17.4,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.016104
+  },
+  {
+    "Frequency": 10000,
+    "Angle of attack": 3,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00425727
+  },
+  {
+    "Frequency": 8000,
+    "Angle of attack": 0,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00146332
+  },
+  {
+    "Frequency": 800,
+    "Angle of attack": 17.4,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0165706
+  },
+  {
+    "Frequency": 5000,
+    "Angle of attack": 0,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.000428464
+  },
+  {
+    "Frequency": 8000,
+    "Angle of attack": 2.7,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00294804
+  },
+  {
+    "Frequency": 630,
+    "Angle of attack": 0,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00146332
+  },
+  {
+    "Frequency": 16000,
+    "Angle of attack": 0,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.000400682
+  },
+  {
+    "Frequency": 315,
+    "Angle of attack": 7.2,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00752039
+  },
+  {
+    "Frequency": 1000,
+    "Angle of attack": 8.4,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00529514
+  },
+  {
+    "Frequency": 2000,
+    "Angle of attack": 6.7,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00478288
+  },
+  {
+    "Frequency": 400,
+    "Angle of attack": 12.3,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0368233
+  },
+  {
+    "Frequency": 400,
+    "Angle of attack": 17.4,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.016104
+  },
+  {
+    "Frequency": 400,
+    "Angle of attack": 9.5,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00461377
+  },
+  {
+    "Frequency": 5000,
+    "Angle of attack": 4,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00473801
+  },
+  {
+    "Frequency": 400,
+    "Angle of attack": 15.6,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0528487
+  },
+  {
+    "Frequency": 630,
+    "Angle of attack": 4.8,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.000907475
+  },
+  {
+    "Frequency": 1000,
+    "Angle of attack": 4.8,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.000930789
+  },
+  {
+    "Frequency": 5000,
+    "Angle of attack": 5.4,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00401199
+  },
+  {
+    "Frequency": 315,
+    "Angle of attack": 9.5,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00449821
+  },
+  {
+    "Frequency": 3150,
+    "Angle of attack": 0,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00209405
+  },
+  {
+    "Frequency": 630,
+    "Angle of attack": 7.3,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0123481
+  },
+  {
+    "Frequency": 3150,
+    "Angle of attack": 15.6,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0437259
+  },
+  {
+    "Frequency": 630,
+    "Angle of attack": 5.4,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00401199
+  },
+  {
+    "Frequency": 3150,
+    "Angle of attack": 4.8,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.000930789
+  },
+  {
+    "Frequency": 3150,
+    "Angle of attack": 17.4,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0165706
+  },
+  {
+    "Frequency": 400,
+    "Angle of attack": 12.7,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0130253
+  },
+  {
+    "Frequency": 5000,
+    "Angle of attack": 2,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00293031
+  },
+  {
+    "Frequency": 200,
+    "Angle of attack": 9.5,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00461377
+  },
+  {
+    "Frequency": 6300,
+    "Angle of attack": 0,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00121072
+  },
+  {
+    "Frequency": 1600,
+    "Angle of attack": 5.4,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.00433288
+  },
+  {
+    "Frequency": 2500,
+    "Angle of attack": 9.9,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0233328
+  },
+  {
+    "Frequency": 630,
+    "Angle of attack": 11.2,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.014072
+  },
+  {
+    "Frequency": 630,
+    "Angle of attack": 15.6,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0528487
+  },
+  {
+    "Frequency": 500,
+    "Angle of attack": 4,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00473801
+  },
+  {
+    "Frequency": 1250,
+    "Angle of attack": 1.5,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00392107
+  },
+  {
+    "Frequency": 6300,
+    "Angle of attack": 12.3,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0337792
+  },
+  {
+    "Frequency": 2000,
+    "Angle of attack": 2,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.00313525
+  },
+  {
+    "Frequency": 500,
+    "Angle of attack": 2,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00372371
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 15.6,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0437259
+  },
+  {
+    "Frequency": 1000,
+    "Angle of attack": 0,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00146332
+  },
+  {
+    "Frequency": 500,
+    "Angle of attack": 12.7,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0130253
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 2.7,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00294804
+  },
+  {
+    "Frequency": 630,
+    "Angle of attack": 7.3,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0111706
+  },
+  {
+    "Frequency": 1250,
+    "Angle of attack": 4.8,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.000907475
+  },
+  {
+    "Frequency": 1250,
+    "Angle of attack": 0,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00253511
+  },
+  {
+    "Frequency": 500,
+    "Angle of attack": 3,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.00452492
+  },
+  {
+    "Frequency": 1600,
+    "Angle of attack": 5.4,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00485029
+  },
+  {
+    "Frequency": 2000,
+    "Angle of attack": 0,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00121072
+  },
+  {
+    "Frequency": 250,
+    "Angle of attack": 4,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00579636
+  },
+  {
+    "Frequency": 250,
+    "Angle of attack": 17.4,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0165706
+  },
+  {
+    "Frequency": 400,
+    "Angle of attack": 11.2,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0150478
+  },
+  {
+    "Frequency": 6300,
+    "Angle of attack": 17.4,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0165706
+  },
+  {
+    "Frequency": 2500,
+    "Angle of attack": 8.9,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0103088
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 0,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.000428464
+  },
+  {
+    "Frequency": 315,
+    "Angle of attack": 2,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00372371
+  },
+  {
+    "Frequency": 1000,
+    "Angle of attack": 12.3,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0368233
+  },
+  {
+    "Frequency": 1000,
+    "Angle of attack": 7.2,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00909175
+  },
+  {
+    "Frequency": 500,
+    "Angle of attack": 17.4,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.0176631
+  },
+  {
+    "Frequency": 315,
+    "Angle of attack": 0,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00310138
+  },
+  {
+    "Frequency": 400,
+    "Angle of attack": 5.4,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.00433288
+  },
+  {
+    "Frequency": 2500,
+    "Angle of attack": 0,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.00229336
+  },
+  {
+    "Frequency": 3150,
+    "Angle of attack": 0,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.00041229
+  },
+  {
+    "Frequency": 800,
+    "Angle of attack": 7.2,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00909175
+  },
+  {
+    "Frequency": 1600,
+    "Angle of attack": 8.4,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.00544854
+  },
+  {
+    "Frequency": 5000,
+    "Angle of attack": 7.3,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0111706
+  },
+  {
+    "Frequency": 400,
+    "Angle of attack": 19.7,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0341183
+  },
+  {
+    "Frequency": 200,
+    "Angle of attack": 22.2,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0229028
+  },
+  {
+    "Frequency": 2500,
+    "Angle of attack": 15.6,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0437259
+  },
+  {
+    "Frequency": 1250,
+    "Angle of attack": 0,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00214345
+  },
+  {
+    "Frequency": 8000,
+    "Angle of attack": 7.2,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00752039
+  },
+  {
+    "Frequency": 1000,
+    "Angle of attack": 19.7,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0341183
+  },
+  {
+    "Frequency": 3150,
+    "Angle of attack": 8.9,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0124596
+  },
+  {
+    "Frequency": 5000,
+    "Angle of attack": 0,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0015988
+  },
+  {
+    "Frequency": 1000,
+    "Angle of attack": 7.3,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0123481
+  },
+  {
+    "Frequency": 500,
+    "Angle of attack": 15.4,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0282593
+  },
+  {
+    "Frequency": 630,
+    "Angle of attack": 1.5,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00392107
+  },
+  {
+    "Frequency": 2500,
+    "Angle of attack": 8.9,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0124596
+  },
+  {
+    "Frequency": 200,
+    "Angle of attack": 0,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00331266
+  },
+  {
+    "Frequency": 800,
+    "Angle of attack": 12.7,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0121808
+  },
+  {
+    "Frequency": 6300,
+    "Angle of attack": 3,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00529514
+  },
+  {
+    "Frequency": 2000,
+    "Angle of attack": 2.7,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00294804
+  },
+  {
+    "Frequency": 6300,
+    "Angle of attack": 12.7,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0130253
+  },
+  {
+    "Frequency": 8000,
+    "Angle of attack": 0,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00121072
+  },
+  {
+    "Frequency": 1600,
+    "Angle of attack": 6.7,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00478288
+  },
+  {
+    "Frequency": 1000,
+    "Angle of attack": 8.4,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.00544854
+  },
+  {
+    "Frequency": 1000,
+    "Angle of attack": 22.2,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0229028
+  },
+  {
+    "Frequency": 2000,
+    "Angle of attack": 15.6,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0437259
+  },
+  {
+    "Frequency": 1000,
+    "Angle of attack": 8.9,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0124596
+  },
+  {
+    "Frequency": 800,
+    "Angle of attack": 4,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00579636
+  },
+  {
+    "Frequency": 10000,
+    "Angle of attack": 0,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.00041229
+  },
+  {
+    "Frequency": 5000,
+    "Angle of attack": 0,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00121072
+  },
+  {
+    "Frequency": 200,
+    "Angle of attack": 15.4,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0264269
+  },
+  {
+    "Frequency": 1000,
+    "Angle of attack": 6.7,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00592927
+  },
+  {
+    "Frequency": 500,
+    "Angle of attack": 8.4,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00566229
+  },
+  {
+    "Frequency": 800,
+    "Angle of attack": 5.3,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0051942
+  },
+  {
+    "Frequency": 2000,
+    "Angle of attack": 8.9,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0124596
+  },
+  {
+    "Frequency": 800,
+    "Angle of attack": 17.4,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.0176631
+  },
+  {
+    "Frequency": 315,
+    "Angle of attack": 4,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00509068
+  },
+  {
+    "Frequency": 1250,
+    "Angle of attack": 12.3,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0337792
+  },
+  {
+    "Frequency": 1250,
+    "Angle of attack": 4.2,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00152689
+  },
+  {
+    "Frequency": 200,
+    "Angle of attack": 9.9,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0233328
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 0,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.000400682
+  },
+  {
+    "Frequency": 250,
+    "Angle of attack": 8.9,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0124596
+  },
+  {
+    "Frequency": 630,
+    "Angle of attack": 5.4,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00485029
+  },
+  {
+    "Frequency": 630,
+    "Angle of attack": 12.7,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0121808
+  },
+  {
+    "Frequency": 400,
+    "Angle of attack": 2,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00293031
+  },
+  {
+    "Frequency": 500,
+    "Angle of attack": 8.4,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.00544854
+  },
+  {
+    "Frequency": 250,
+    "Angle of attack": 9.5,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00461377
+  },
+  {
+    "Frequency": 1600,
+    "Angle of attack": 9.5,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0043284
+  },
+  {
+    "Frequency": 5000,
+    "Angle of attack": 9.5,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00420654
+  },
+  {
+    "Frequency": 1000,
+    "Angle of attack": 7.3,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0111706
+  },
+  {
+    "Frequency": 5000,
+    "Angle of attack": 12.3,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0337792
+  },
+  {
+    "Frequency": 315,
+    "Angle of attack": 17.4,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.016104
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 4,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00400603
+  },
+  {
+    "Frequency": 200,
+    "Angle of attack": 15.4,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0271925
+  },
+  {
+    "Frequency": 1250,
+    "Angle of attack": 7.3,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0104404
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 5.3,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0051942
+  },
+  {
+    "Frequency": 800,
+    "Angle of attack": 0,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00331266
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 3.3,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.002211
+  },
+  {
+    "Frequency": 315,
+    "Angle of attack": 9.5,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00461377
+  },
+  {
+    "Frequency": 10000,
+    "Angle of attack": 4,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00400603
+  },
+  {
+    "Frequency": 1250,
+    "Angle of attack": 15.4,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.0289853
+  },
+  {
+    "Frequency": 6300,
+    "Angle of attack": 3,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00425727
+  },
+  {
+    "Frequency": 800,
+    "Angle of attack": 9.5,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00449821
+  },
+  {
+    "Frequency": 315,
+    "Angle of attack": 12.6,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0584113
+  },
+  {
+    "Frequency": 800,
+    "Angle of attack": 3,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00425727
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 7.3,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.0132672
+  },
+  {
+    "Frequency": 1250,
+    "Angle of attack": 3.3,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00202822
+  },
+  {
+    "Frequency": 250,
+    "Angle of attack": 8.9,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0103088
+  },
+  {
+    "Frequency": 2500,
+    "Angle of attack": 2,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.00313525
+  },
+  {
+    "Frequency": 630,
+    "Angle of attack": 9.9,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.0252785
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 2,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00372371
+  },
+  {
+    "Frequency": 2000,
+    "Angle of attack": 5.4,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00485029
+  },
+  {
+    "Frequency": 250,
+    "Angle of attack": 19.7,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.036484
+  },
+  {
+    "Frequency": 315,
+    "Angle of attack": 12.3,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0368233
+  },
+  {
+    "Frequency": 5000,
+    "Angle of attack": 12.3,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0368233
+  },
+  {
+    "Frequency": 400,
+    "Angle of attack": 5.3,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00614329
+  },
+  {
+    "Frequency": 400,
+    "Angle of attack": 2,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00372371
+  },
+  {
+    "Frequency": 200,
+    "Angle of attack": 12.3,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0408268
+  },
+  {
+    "Frequency": 12500,
+    "Angle of attack": 0,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.000439472
+  },
+  {
+    "Frequency": 10000,
+    "Angle of attack": 3,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.00452492
+  },
+  {
+    "Frequency": 5000,
+    "Angle of attack": 4,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0042862
+  },
+  {
+    "Frequency": 1600,
+    "Angle of attack": 2,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00372371
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 5.4,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00401199
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 3.3,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00202822
+  },
+  {
+    "Frequency": 400,
+    "Angle of attack": 17.4,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.0176631
+  },
+  {
+    "Frequency": 2500,
+    "Angle of attack": 4,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00509068
+  },
+  {
+    "Frequency": 6300,
+    "Angle of attack": 4,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00497773
+  },
+  {
+    "Frequency": 800,
+    "Angle of attack": 11.2,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.014072
+  },
+  {
+    "Frequency": 1600,
+    "Angle of attack": 0,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.00076193
+  },
+  {
+    "Frequency": 6300,
+    "Angle of attack": 7.2,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00909175
+  },
+  {
+    "Frequency": 2000,
+    "Angle of attack": 0,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.00229336
+  },
+  {
+    "Frequency": 1600,
+    "Angle of attack": 4.8,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.000930789
+  },
+  {
+    "Frequency": 8000,
+    "Angle of attack": 2.7,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00243851
+  },
+  {
+    "Frequency": 6300,
+    "Angle of attack": 3,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00495741
+  },
+  {
+    "Frequency": 500,
+    "Angle of attack": 9.5,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00449821
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 12.3,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0337792
+  },
+  {
+    "Frequency": 1600,
+    "Angle of attack": 9.9,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0208438
+  },
+  {
+    "Frequency": 2500,
+    "Angle of attack": 17.4,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0172206
+  },
+  {
+    "Frequency": 2500,
+    "Angle of attack": 6.7,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00478288
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 0,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00146332
+  },
+  {
+    "Frequency": 630,
+    "Angle of attack": 2.7,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00294804
+  },
+  {
+    "Frequency": 16000,
+    "Angle of attack": 0,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00214345
+  },
+  {
+    "Frequency": 630,
+    "Angle of attack": 15.4,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0282593
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 12.3,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0368233
+  },
+  {
+    "Frequency": 400,
+    "Angle of attack": 12.6,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0584113
+  },
+  {
+    "Frequency": 5000,
+    "Angle of attack": 0,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00193287
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 12.3,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0408268
+  },
+  {
+    "Frequency": 8000,
+    "Angle of attack": 0,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00266337
+  },
+  {
+    "Frequency": 1000,
+    "Angle of attack": 3,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00529514
+  },
+  {
+    "Frequency": 1250,
+    "Angle of attack": 6.7,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00592927
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 2,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00346574
+  },
+  {
+    "Frequency": 6300,
+    "Angle of attack": 2,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00372371
+  },
+  {
+    "Frequency": 1600,
+    "Angle of attack": 15.6,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0528487
+  },
+  {
+    "Frequency": 1250,
+    "Angle of attack": 2,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00372371
+  },
+  {
+    "Frequency": 8000,
+    "Angle of attack": 5.4,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.00433288
+  },
+  {
+    "Frequency": 1000,
+    "Angle of attack": 7.2,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00752039
+  },
+  {
+    "Frequency": 2500,
+    "Angle of attack": 22.2,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0214178
+  },
+  {
+    "Frequency": 800,
+    "Angle of attack": 15.4,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0271925
+  },
+  {
+    "Frequency": 6300,
+    "Angle of attack": 15.4,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0271925
+  },
+  {
+    "Frequency": 500,
+    "Angle of attack": 3,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00495741
+  },
+  {
+    "Frequency": 315,
+    "Angle of attack": 5.4,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00525474
+  },
+  {
+    "Frequency": 400,
+    "Angle of attack": 4,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00473801
+  },
+  {
+    "Frequency": 2000,
+    "Angle of attack": 4,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0042862
+  },
+  {
+    "Frequency": 800,
+    "Angle of attack": 8.9,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.0103088
+  },
+  {
+    "Frequency": 10000,
+    "Angle of attack": 0,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.00172668
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 9.5,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00461377
+  },
+  {
+    "Frequency": 2000,
+    "Angle of attack": 3,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00495741
+  },
+  {
+    "Frequency": 500,
+    "Angle of attack": 12.3,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0408268
+  },
+  {
+    "Frequency": 1600,
+    "Angle of attack": 17.4,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0172206
+  },
+  {
+    "Frequency": 6300,
+    "Angle of attack": 3.3,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00202822
+  },
+  {
+    "Frequency": 4000,
+    "Angle of attack": 7.3,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0123481
+  },
+  {
+    "Frequency": 16000,
+    "Angle of attack": 0,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.000439472
+  },
+  {
+    "Frequency": 6300,
+    "Angle of attack": 9.9,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 55.5,
+    "Suction side": 0.0208438
+  },
+  {
+    "Frequency": 2500,
+    "Angle of attack": 0,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00121072
+  },
+  {
+    "Frequency": 1250,
+    "Angle of attack": 9.9,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.0233328
+  },
+  {
+    "Frequency": 400,
+    "Angle of attack": 4,
+    "Chord length": 0.3048,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00497773
+  },
+  {
+    "Frequency": 2500,
+    "Angle of attack": 17.4,
+    "Chord length": 0.0254,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.0176631
+  },
+  {
+    "Frequency": 1000,
+    "Angle of attack": 3.3,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00202822
+  },
+  {
+    "Frequency": 3150,
+    "Angle of attack": 5.4,
+    "Chord length": 0.1524,
+    "Free-stream velocity": 39.6,
+    "Suction side": 0.00485029
+  },
+  {
+    "Frequency": 1250,
+    "Angle of attack": 4,
+    "Chord length": 0.2286,
+    "Free-stream velocity": 31.7,
+    "Suction side": 0.00509068
+  },
+  {
+    "Frequency": 1250,
+    "Angle of attack": 0,
+    "Chord length": 0.0508,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.000740478
+  },
+  {
+    "Frequency": 2000,
+    "Angle of attack": 3.3,
+    "Chord length": 0.1016,
+    "Free-stream velocity": 71.3,
+    "Suction side": 0.00202822
+  }
+]}

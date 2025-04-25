@@ -1,3 +1,9 @@
 flask
+gunicorn  # if we want to deploy our project into heroku we want some libraries so gunicorn,Jinja2
+          # gunicorn is for interaction with the web server.
+Jinja2
 numpy
+scipy
+scikit-learn
 pandas
+matplotlib
