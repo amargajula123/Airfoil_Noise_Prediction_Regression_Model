@@ -1,5 +1,4 @@
 import pickle
-import os
 from flask import Flask,request,jsonify,url_for,render_template
 import numpy as np
 import pandas as pd
@@ -57,8 +56,7 @@ def predict():
     return render_template("home.html",prediction_text="Airfoil pressure is {}".format(Output))
 
 if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 8999))
-    app.run(host="0.0.0.0", port=port, debug=True)
+    app.run(debug=True)
 
 
 # this bellow code is for if you give batch of inputs you get batch of outputs
