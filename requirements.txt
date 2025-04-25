@@ -1,8 +1,8 @@
 flask
 gunicorn
 Jinja2
-numpy
+numpy==1.19.5
 scipy
-scikit-learn
+scikit-learn==0.24.2
 pandas
 matplotlib
